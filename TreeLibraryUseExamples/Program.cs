@@ -12,7 +12,7 @@ namespace TreeLibraryUseExamples
         static void Main(string[] args)
         {
 
-            // создание дерева:
+            // создание  дерева:
             Tree<int> tree = new Tree<int>(1);
             Tree<string> tree1 = new Tree<string>("q");
 
